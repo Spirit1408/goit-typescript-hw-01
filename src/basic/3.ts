@@ -5,3 +5,8 @@
 
 let mixedType: string | number;
 let value: "enable" | "disable";
+
+mixedType = 10;
+value = "enable";
+
+console.log("Task 3:", mixedType, value);

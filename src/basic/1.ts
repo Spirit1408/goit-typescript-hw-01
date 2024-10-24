@@ -18,3 +18,5 @@ const empty: null = null;
 const callback = (a: number) => {
 	return 100 + a;
 };
+
+console.log("Task 1: ", age, username, toggle, empty, callback(10));
